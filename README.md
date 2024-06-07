@@ -1,9 +1,3 @@
-## Hi there 👋
-
-<!--
-**amgaikwad4588/amgaikwad4588** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 - 👋 Hi, I’m @AdityaGaikwad2004
 - 👀 I’m interested in Android Development
 - 🌱 I’m currently pursuing B.Tech in Computer Science and Engineering from Shri Ramdeobaba College of Engineering and Management
