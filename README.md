@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AdityaGaikwad2004
 - 👀 I’m interested in Android Development
 - 🌱 I’m currently pursuing B.Tech in Computer Science and Engineering from Shri Ramdeobaba College of Engineering and Management
-- 💞️ I’m looking to collaborate on Android Open source Projects
+- 💞️ I’m looking to collaborate on Projects and Internships
 - 📫 How to reach me gaikwadam@rknec.edu
 - 😄 Pronouns: He/Him
 - 👻 LinkedIn: https://www.linkedin.com/in/aditya-gaikwad-b7182a246/
